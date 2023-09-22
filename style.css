@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+}
+
+
+#canvas {
+    border: 2px solid black;
+}
+
+
+
+#colorPicker {
+    margin: 10px;
+    
+}
+
+#drawButton {
+    padding: 5px;
+    margin: 5px;
+}
+
+#eraseButton {
+    padding: 5px;
+    margin: 5px;
+}
